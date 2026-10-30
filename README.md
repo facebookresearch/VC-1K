@@ -92,7 +92,10 @@ The majority of sequences (89%) feature a front-facing talking head, representat
 
 Motion levels are intentionally skewed toward slow motion (57%), reflecting typical video calling behavior where participants are relatively stationary, with medium (30%) and fast (13%) motion sequences providing challenging test cases for encoder motion estimation.
 
-# License
+## Reference
+The full citation and DOI will be added upon publication.
+
+## License
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://github.com/facebookresearch/VC-1K?tab=License-1-ov-file#). This license permits sharing and adapting the work, provided it's not used for commercial purposes and appropriate credit is given. For a quick overview, visit [Creative Commons License](https://creativecommons.org/licenses/by-nc/4.0/).
 
