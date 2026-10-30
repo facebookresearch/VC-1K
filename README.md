@@ -1,5 +1,3 @@
-[Working on README.md]
-
 # Dataset Description
 
 ## Folder Structure
